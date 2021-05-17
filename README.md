@@ -1,5 +1,10 @@
 # TheGuilb.github.io
 My GitHub page
+
+## Languages
+JavaScript, HTML, CSS, Python, Ruby, COBOL
+English and French
+
 ## About Pierre Guilbault
 Born in Atlanta, GA but raised in Vancouver B.C. I have had the fortunate experiences of living in culturally ecclectic cities in North America and Europe. From Vacouver, to New York, and reccently Paris, not only have I lived in large bustling cities, but because of the type of work I have been doing up until now I have been able to travel a lot as well. Before Covid, and still to this day, I was/am a dance artist. I have performed all over Europe and the United States, I have also traveled with work and for pleasure to Asian, Arab, and European countries.
 
